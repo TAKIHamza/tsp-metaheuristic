@@ -1,0 +1,11 @@
+Instance;Cout_Avant;Cout_Apres;Amelioration(%)
+a280.tsp;3157;2930;7.19
+berlin52.tsp;8850;7977;9.86
+bier127.tsp;131287;124531;5.15
+ch150.tsp;8191;7328;10.54
+eil51.tsp;479;438;8.56
+eil76.tsp;642;558;13.08
+kroA100.tsp;27807;22447;19.28
+kroB100.tsp;28912;23236;19.63
+pr124.tsp;66570;59897;10.02
+st70.tsp;830;703;15.3
