@@ -104,20 +104,17 @@ Clone the repository:
 git clone https://github.com/TAKIHamza/tsp-metaheuristic.git
 
 Go to the project directory:
-```bash
 cd tsp-metaheuristic
 
 
 Install dependencies:
-```bash
 pip install -r requirements.txt
 
 
 Run the program:
-```bash
 python main.py
+```
 
-Author
-
+## Author
 Hamza TAKI
 Master IARO – Operations Research and Artificial Intelligence
